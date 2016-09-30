@@ -1,6 +1,6 @@
 # FishingForFishermen
 
-The background for the contest description from Topcoder.
+The background for the contest description from Topcoder, please see the python notebook for more information on my approach to the problem.
 
 ###Background
 
